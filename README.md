@@ -21,6 +21,11 @@
    → Blending tradition with philosophy, discipline with humility.  
    → Strength isn’t just physical — it’s moral, spiritual, and intellectual.
 
+🧩 OSINT Enthusiast  
+   → Exploring open-source intelligence tools and digital investigation ethics.  
+   → Passionate about information transparency and responsible cybersecurity.  
+   → Believes knowledge should empower, not exploit.
+
 🗳️ Political & Social Observer  
    → Interested in the logic behind governance, justice, and social systems.  
    → Believes in rational discourse over blind ideology.
@@ -45,6 +50,7 @@
    - Linux desktop customization (XFCE, KDE, GNOME)  
    - AI integrations via terminal tools  
    - Python automation & ethical reporting scripts  
+   - OSINT tools and privacy-focused investigations  
    - Human-machine creativity (AI × Art × Logic)
 
 📬 Reach me if you want to discuss Linux, AI, philosophy, or strategy —  
